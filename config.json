@@ -5,20 +5,20 @@
     "mongodbUri": "mongodb+srv://Kronix1:arjun@cluster0.ob9wwsc.mongodb.net/?retryWrites=true&w=majority",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
-        "utility": true,
-        "other": true,
+        "utility": false,
+        "other": false,
         "hentai": false,
         "lavalink": true,
         "troll": false
     },
     "categories": {
-        "anime": true,
+        "anime": false,
         "basic": true,
-        "utility": true,
-        "moderation": true,
-        "fun": true,
+        "utility": false,
+        "moderation": false,
+        "fun": false,
         "distube music": true,
-        "setups": true
+        "setups": false
     },
      "lavalink": {
         "lavalink": {
