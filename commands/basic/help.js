@@ -84,7 +84,7 @@ module.exports = {
                     title: 'Bot Information',
                     description: `Welcome to the help command! This bot provides a variety of commands to enhance your server experience. Below are the categories and the number of commands available in each.`,
                     commands: [
-                        `**💜 Bot Developer:** Exocrit\n`+
+                        `**Bot Developer:** Exocrit\n`+
                         `**Bot Version:** 1.1.0\n`+
                         `**Total Servers:** ${totalServers}\n`+
                         `**Total Members:** ${totalMembers}\n`+
@@ -95,11 +95,11 @@ module.exports = {
                     ],
                     image: "https://cdn.discordapp.com/attachments/1264134884432285766/1297492873146667028/glaceyt.png?ex=671cb767&is=671b65e7&hm=890bbfe51aea32cd666365720aeb408b6367896dcf40a4c9abde13d405976d79&",
                     color: "#3498db",
-                    thumbnail: "https://media.discordapp.net/attachments/1310553165019480067/1320338758637326346/aeb777141817107.Y3JvcCwxMDgwLDg0NCwwLDExNw.png?ex=67693cca&is=6767eb4a&hm=57fb18a5668e94fe7b2cae9b95b98b864e38690ef7737d76c11bf0b7cdc2ec59&=&format=webp&quality=lossless",
+                    thumbnail: "https://media.discordapp.net/attachments/1310553165019480067/1320341626639613982/aeb777141817107.Y3JvcCwxMDgwLDg0NCwwLDExNw-removebg-preview.png?ex=67693f76&is=6767edf6&hm=cd5cb70f886945e775d54e85de89f24efd9c76eed1dce285b26dec02b9651a07&=&format=webp&quality=lossless",
                     author: {
-                        name: 'All In One',
+                        name: 'Kreep',
                         iconURL: "https://cdn.discordapp.com/attachments/1246408947708072027/1255167194036437093/1558-zerotwo-exciteddance.gif?ex=667c250a&is=667ad38a&hm=09e6db36fd79436eb57de466589f21ca947329edd69b8e591d0f6586b89df296&",
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/A2Bwm2QNe8"
                     }
                 });
 
@@ -129,7 +129,7 @@ module.exports = {
                         author: {
                             name: `${category.charAt(0).toUpperCase() + category.slice(1)} Commands`,
                             iconURL: "",
-                            url: "https://discord.gg/xQF9f9yUEM"
+                            url: "https://discord.gg/A2Bwm2QNe8"
                         }
                     };
 
@@ -242,7 +242,7 @@ module.exports = {
                     title: 'Bot Information',
                     description: `Welcome to the help command! This bot provides a variety of commands to enhance your server experience. Below are the categories and the number of commands available in each.`,
                     commands: [
-                        `**💜 Bot Developer:** GlaceYT\n`+
+                        `**Bot Developer:** Exocrit\n`+
                         `**Bot Version:** 1.1.0\n`+
                         `**Total Servers:** ${totalServers}\n`+
                         `**Total Members:** ${totalMembers}\n`+
@@ -257,7 +257,7 @@ module.exports = {
                     author: {
                         name: 'All In One',
                         iconURL: "https://cdn.discordapp.com/attachments/1246408947708072027/1255167194036437093/1558-zerotwo-exciteddance.gif?ex=667c250a&is=667ad38a&hm=09e6db36fd79436eb57de466589f21ca947329edd69b8e591d0f6586b89df296&",
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/A2Bwm2QNe8"
                     }
                 });
 
@@ -289,7 +289,7 @@ module.exports = {
                         author: {
                             name: `${category.charAt(0).toUpperCase() + category.slice(1)} Commands`,
                             iconURL: "",
-                            url: "https://discord.gg/xQF9f9yUEM"
+                            url: "https://discord.gg/A2Bwm2QNe8"
                         }
                     };
 
