@@ -93,7 +93,7 @@ module.exports = {
                         `**Enabled Categories:** ${enabledCategoriesList.join(', ')}\n`+
                         `**Disabled Categories:** ${disabledCategoriesList.join(', ')}\n`,
                     ],
-                    image: "https://cdn.discordapp.com/attachments/1264134884432285766/1297492873146667028/glaceyt.png?ex=671cb767&is=671b65e7&hm=890bbfe51aea32cd666365720aeb408b6367896dcf40a4c9abde13d405976d79&",
+                    image: "https://media.discordapp.net/attachments/1310553165019480067/1320359321741299712/20241222_172553.jpg?ex=67694ff1&is=6767fe71&hm=97edaee5eae35d1f8fa6174ede35fb1c9d8ca0f2029dab0867722f8dcd1e682f&",
                     color: "#3498db",
                     thumbnail: "https://media.discordapp.net/attachments/1310553165019480067/1320341626639613982/aeb777141817107.Y3JvcCwxMDgwLDg0NCwwLDExNw-removebg-preview.png?ex=67693f76&is=6767edf6&hm=cd5cb70f886945e775d54e85de89f24efd9c76eed1dce285b26dec02b9651a07&=&format=webp&quality=lossless",
                     author: {
@@ -251,7 +251,7 @@ module.exports = {
                         `**Enabled Categories:** ${enabledCategoriesList.join(', ')}\n`+
                         `**Disabled Categories:** ${disabledCategoriesList.join(', ')}\n`,
                     ],
-                    image: "https://cdn.discordapp.com/attachments/1264134884432285766/1297492873146667028/glaceyt.png?ex=671cb767&is=671b65e7&hm=890bbfe51aea32cd666365720aeb408b6367896dcf40a4c9abde13d405976d79&",
+                    image: "https://media.discordapp.net/attachments/1310553165019480067/1320359321741299712/20241222_172553.jpg?ex=67694ff1&is=6767fe71&hm=97edaee5eae35d1f8fa6174ede35fb1c9d8ca0f2029dab0867722f8dcd1e682f&",
                     color: "#3498db",
                     thumbnail: "https://cdn.discordapp.com/attachments/1264134884432285766/1270353776489922651/s_removed.png?ex=66b364a6&is=66b21326&hm=2d4ded259b57f476c901c58401e1d6faba2653c0a964ee1c4f371ecf3da52100&",
                     author: {
